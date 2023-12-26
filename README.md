@@ -1,5 +1,5 @@
 # GitHub-Education
-Finish it Today ISA
 
+Finish it Today ISA
 
 ### Project Notes
